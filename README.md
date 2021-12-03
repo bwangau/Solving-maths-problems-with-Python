@@ -1,1 +1,1 @@
-# Solving-maths-quizzes-with-Python
+# Solving-maths-problems-with-Python
